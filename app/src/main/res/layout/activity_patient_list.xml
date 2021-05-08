@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="344dp"
+        android:layout_height="123dp"
+        android:layout_margin="5dp"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="16dp">
+
+        <TextView
+            android:id="@+id/textViewPName"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+
+            android:text="Atif Aslam"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <TextView
+            android:id="@+id/textViewPIC"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+            android:layout_marginTop="25dp"
+            android:text="98011606882"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+
+        <TextView
+            android:id="@+id/textViewPPhone"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+            android:layout_marginTop="42dp"
+            android:text="01110744224"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <TextView
+            android:id="@+id/textViewPAddress"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+            android:layout_marginTop="60dp"
+            android:text="Lorong Haji Isa, Jalan Pondok Lebai Leh"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <TextView
+            android:id="@+id/textViewPPoscode"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+            android:layout_marginTop="75dp"
+            android:text="17500"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <TextView
+            android:id="@+id/textViewPDistrict"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="75dp"
+            android:text="Tanah Merah"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <TextView
+            android:id="@+id/textViewPCountry"
+            android:layout_width="274dp"
+            android:layout_height="26dp"
+            android:layout_marginTop="90dp"
+            android:text="Kelantan"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.733"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

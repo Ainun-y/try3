@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main.history2">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Personal History "
+        android:textSize="23dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.085" />
+
+
+    <LinearLayout
+        android:layout_width="334dp"
+        android:layout_height="421dp"
+
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.38">
+
+        <TextView
+            android:id="@+id/h23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+
+            android:text="Patient name"
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="205dp" />
+
+        <TextView
+            android:id="@+id/h16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="have Chilhood Illness such as:"
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="140dp"
+
+            />
+
+        <TextView
+            android:id="@+id/h10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="140dp"
+
+            />
+
+        <TextView
+            android:id="@+id/h11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="205dp" />
+
+        <TextView
+            android:id="@+id/h12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="49dp"
+            tools:layout_editor_absoluteY="277dp" />
+
+        <TextView
+            android:id="@+id/h13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="140dp"
+
+            />
+
+        <TextView
+            android:id="@+id/h14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="205dp" />
+
+        <TextView
+            android:id="@+id/h15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="49dp"
+            tools:layout_editor_absoluteY="277dp" />
+
+        <TextView
+            android:id="@+id/h24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+
+            android:text="Patient name"
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="205dp" />
+
+        <TextView
+            android:id="@+id/h25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="have Immunation of:"
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="140dp"
+
+            />
+
+        <TextView
+            android:id="@+id/h17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="205dp" />
+
+        <TextView
+            android:id="@+id/h18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="49dp"
+            tools:layout_editor_absoluteY="277dp" />
+
+        <TextView
+            android:id="@+id/h19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="140dp"
+
+            />
+
+        <TextView
+            android:id="@+id/h20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="205dp" />
+
+        <TextView
+            android:id="@+id/h21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="49dp"
+            tools:layout_editor_absoluteY="277dp" />
+
+        <TextView
+            android:id="@+id/h22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="140dp"
+
+            />
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

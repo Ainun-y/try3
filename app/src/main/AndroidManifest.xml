@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.try3">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/lltis"
+        android:label="LLTI"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".patientlisthistory"></activity>
+        <activity android:name=".main.history2" />
+        <activity android:name=".main.graphWounds" />
+        <activity android:name=".main.graphMuscle" />
+        <activity android:name=".main.graphContracture" />
+        <activity android:name=".main.graphOedema" />
+        <activity android:name=".main.dashboardAdmin" />
+        <activity android:name=".main.dashboardNurse" />
+        <activity
+            android:name=".main.patientslistdetail2"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".main.patientlistDetails" />
+        <activity android:name=".main.graphmonitorpatient" />
+        <activity android:name=".main.monitoPatient" />
+        <activity android:name=".main.patientlistall" />
+        <activity android:name=".main.nurseLogin" />
+        <activity android:name=".main.PatientInsert" />
+        <activity android:name=".main.NurseInsert" />
+        <activity android:name=".main.adminspace" />
+        <activity android:name=".main.nursespace" />
+        <activity android:name=".main.historyactivity" />
+        <activity android:name=".main.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

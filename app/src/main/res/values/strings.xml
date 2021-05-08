@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">try3</string>
+    <array name="country">
+        <item>Perlis</item>
+        <item>Kedah</item>
+        <item>Pulau Pinang</item>
+        <item>Perak</item>
+
+        <item>Selangor</item>
+
+        <item>Johor</item>
+        <item>Negeri Sembilan</item>
+        <item>Melaka</item>
+
+        <item>Pahang</item>
+        <item>Terengganu</item>
+        <item>Kelantan</item>
+
+        <item>Sabah</item>
+        <item>Sarawak</item>
+
+
+    </array>
+
+    <array name="gender">
+
+        <item>Male</item>
+        <item>Female</item>
+
+
+    </array>
+</resources>
