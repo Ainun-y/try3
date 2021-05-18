@@ -1,0 +1,159 @@
+{
+  "History" : {
+    "Farid Ahmad Rusli" : {
+      "-MGnzU_NHjEAt2MuK5zB" : {
+        "chChickenPox" : "Chicken Pox",
+        "chPolio" : "Polio",
+        "chRheumaticFever" : "Rheumatic Fever",
+        "chRubella" : "Rubella",
+        "hDetails" : "",
+        "hId" : "-MGnzU_NHjEAt2MuK5zB",
+        "hMeasles" : "Measles",
+        "hMumps" : "Mumps",
+        "iChickenPox" : "Chicken Pox",
+        "iHepatitis" : "Hepatitis",
+        "iInfluenza" : "Influenza",
+        "iMMR" : "MMR",
+        "iPneumonia" : "Pneumonia",
+        "iTetanus" : "Tetanus"
+      }
+    },
+    "Nur Suraya Abdul Rahim" : {
+      "-MGnzYY-g1wr8RfObi6D" : {
+        "chChickenPox" : "Chicken Pox",
+        "chPolio" : "Polio",
+        "chRheumaticFever" : "Rheumatic Fever",
+        "chRubella" : "Rubella",
+        "hDetails" : "",
+        "hId" : "-MGnzYY-g1wr8RfObi6D",
+        "hMeasles" : "Measles",
+        "hMumps" : "Mumps",
+        "iChickenPox" : "Chicken Pox",
+        "iHepatitis" : "Hepatitis",
+        "iInfluenza" : "Influenza",
+        "iMMR" : "MMR",
+        "iPneumonia" : "Pneumonia",
+        "iTetanus" : "Tetanus"
+      }
+    }
+  },
+  "Nurse" : {
+    "ammar" : {
+      "nEmail" : "ammar@pros.com",
+      "nGender" : "Male",
+      "nId" : "-MGnzyr0YjAs5yh0Vh-W",
+      "nName" : "Ammar Amiruddin Abdullah",
+      "nPassword" : "1234",
+      "nPhoneNum" : "011316444",
+      "nUserName" : "ammar"
+    },
+    "azhar" : {
+      "nEmail" : "azhar@pros.com",
+      "nGender" : "Male",
+      "nId" : "-MGnzqFU1DG4CyF4wmWl",
+      "nName" : "Azhar Abdullah",
+      "nPassword" : "1234",
+      "nPhoneNum" : "0174431655",
+      "nUserName" : "azhar"
+    }
+  },
+  "Patient" : {
+    "-MGnpeJy4wA9JLC9Tqnd" : {
+      "pAddress" : "3423 Lorong Ismail",
+      "pCountry" : "Perlis",
+      "pDistrict" : "Pasir Mas",
+      "pIC" : "980203065772",
+      "pId" : "-MGnpeJy4wA9JLC9Tqnd",
+      "pName" : "Nur Suraya Abdullah",
+      "pPhoneNum" : "0144451243",
+      "pPoscode" : "17566"
+    },
+    "-MGnsPpG7_-lgZBFytZF" : {
+      "pAddress" : "No. 34 Lorong Indah",
+      "pCountry" : "Melaka",
+      "pDistrict" : "Wilayah Timur",
+      "pIC" : "760516065443",
+      "pId" : "-MGnsPpG7_-lgZBFytZF",
+      "pName" : "Farid Ahmad Rusli",
+      "pPhoneNum" : "01999945325",
+      "pPoscode" : "12003"
+    },
+    "-MGnudWwfVv6azZwnwab" : {
+      "pAddress" : "66, Jalan Cheng",
+      "pCountry" : "Perlis",
+      "pDistrict" : "Padang Besar",
+      "pIC" : "750302045567",
+      "pId" : "-MGnudWwfVv6azZwnwab",
+      "pName" : "Nur Suraya Abdul Rahim",
+      "pPhoneNum" : "0146663745",
+      "pPoscode" : "12399"
+    },
+    "-MGnzOIWLNnsOnORg3GK" : {
+      "pAddress" : "edjfnrfnfj",
+      "pCountry" : "Perlis",
+      "pDistrict" : "",
+      "pIC" : "444",
+      "pId" : "-MGnzOIWLNnsOnORg3GK",
+      "pName" : "xxx",
+      "pPhoneNum" : "2222",
+      "pPoscode" : "rifn"
+    }
+  },
+  "Rate" : {
+    "Farid Ahmad Rusli" : {
+      "-MGo5zMIUzR_RY24Sciw" : {
+        "cId" : "-MGo5zMIUzR_RY24Sciw",
+        "ratingContracture" : 3,
+        "ratingMuscle" : 1,
+        "ratingOedema" : 4,
+        "ratingWounds" : 5
+      },
+      "-MGo65hbWpsET3zLVPQ9" : {
+        "cId" : "-MGo65hbWpsET3zLVPQ9",
+        "ratingContracture" : 0,
+        "ratingMuscle" : 4,
+        "ratingOedema" : 1,
+        "ratingWounds" : 3
+      },
+      "-MGoChmQqtHvQQn-L8UP" : {
+        "cId" : "-MGoChmQqtHvQQn-L8UP",
+        "ratingContracture" : 4,
+        "ratingMuscle" : 1,
+        "ratingOedema" : 1,
+        "ratingWounds" : 4
+      }
+    },
+    "Nur Suraya Abdul Rahim" : {
+      "-MGoCjowGJ_lxP4nrchR" : {
+        "cId" : "-MGoCjowGJ_lxP4nrchR",
+        "ratingContracture" : 2,
+        "ratingMuscle" : 1,
+        "ratingOedema" : 5,
+        "ratingWounds" : 3
+      },
+      "-MGoCl3SZAPRKlcH_nNJ" : {
+        "cId" : "-MGoCl3SZAPRKlcH_nNJ",
+        "ratingContracture" : 4,
+        "ratingMuscle" : 1,
+        "ratingOedema" : 2,
+        "ratingWounds" : 2
+      }
+    },
+    "Nur Suraya Abdullah" : {
+      "-MGoCfKX43wgXOIve82N" : {
+        "cId" : "-MGoCfKX43wgXOIve82N",
+        "ratingContracture" : 1,
+        "ratingMuscle" : 4,
+        "ratingOedema" : 1,
+        "ratingWounds" : 3
+      },
+      "-MGpcCoxUcb_35aYbb4i" : {
+        "cId" : "-MGpcCoxUcb_35aYbb4i",
+        "ratingContracture" : 3,
+        "ratingMuscle" : 1,
+        "ratingOedema" : 2,
+        "ratingWounds" : 4
+      }
+    }
+  }
+}
